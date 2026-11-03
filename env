@@ -1,0 +1,20 @@
+APP_BASE_URL=https://cybercoari.com.br
+
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_NAME=seu_dbname
+DB_USER=seu_user
+DB_PASS=sua_senha
+
+SMTP_HOST=smtp.seu-provedor.com
+SMTP_PORT=587
+SMTP_SECURE=false
+SMTP_USER=seu-email@dominio.com
+SMTP_PASS=SUA_SENHA_SMTP
+SMTP_FROM="ConnectPlus <seu-email@dominio.com>"
+
+RESET_TOKEN_TTL_MINUTES=30
+
+MP_ACCESS_TOKEN=SEU_ACCESS_TOKEN
+MP_PUBLIC_KEY=SUA_PUBLIC_KEY
+MP_WEBHOOK_SECRET=SEU_WEBHOOK_SECRET
