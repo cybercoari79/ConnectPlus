@@ -1,0 +1,1 @@
+<?php require_once __DIR__.'/../services/MercadoPago.php';$u=require_auth();api_admin_only($u);$rows=db()->query("SELECT * FROM orders WHERE status='pending' ORDER BY created_at DESC")->fetchAll();json_response(['orders'=>array_map('order_to_array',$rows)]);

@@ -1,0 +1,61 @@
+{
+    "Version": 23,
+    "VersionName": "1",
+    "AppVersion": 1,
+    "UpdateApk": "",
+    "Actualization": "false",
+    "UdpPort": "7300",
+    "Contato": "https://t.me/cybecoari",
+    "Site": "https://speedteste.net",
+    "Theme": {
+        "Version": "28",
+        "AppName": "ConnectPlus",
+        "ImgFundo": "https://cybercoari.com.br/cyber/imagens/fundoonline.png",
+        "ImgLogo": "https://cybercoari.com.br/cyber/imagens/logoonline.png",
+        "ImgBanner": "https://cybercoari.com.br/cyber/imagens/banner.png",
+        "ImgMenu": "https://cybercoari.com.br/cyber/imagens/menu.png",
+        "ImgLogs": "https://cybercoari.com.br/cyber/imagens/logs.png",
+        "ImgCheck": "https://cybercoari.com.br/cyber/imagens/check.png",
+        "ImgUser": "https://cybercoari.com.br/cyber/imagens/user.png",
+        "ImgPass": "https://cybercoari.com.br/cyber/imagens/pass.png",
+        "ImgUpdate": "https://cybercoari.com.br/cyber/imagens/updade.png",
+        "ImgRouter": "https://cybercoari.com.br/cyber/imagens/router.png",
+        "ImgDownload": "https://cybercoari.com.br/cyber/imagens/download.png",
+        "ImgUpload": "https://cybercoari.com.br/cyber/imagens/updade.png",
+        "ColorOne": "#1AFFFFFF",
+        "ColorTwo": "#000000",
+        "ColorStarter": "#121212",
+        "ColorDialogs": "#FFFFFF",
+        "ColorButtons": "#FFFFFF",
+        "Update": ""
+    },
+    "Servers": [
+        {
+            "Name": "Tim ",
+            "ColorName": "#ffffff",
+            "Description": "Tim",
+            "ColorDescription": "#ffffff",
+            "FLAG": "https://cybercoari.com.br/cyber/imagens/tim.png",
+            "ServerIP": "",
+            "ServerPort": "",
+            "CheckUser": "",
+            "USER": "",
+            "PASS": "",
+            "Payload": "GET / HTTP/1.1[lf]Host: app.cybercoari.com.br[lf]Upgrade: websocket[lf][lf]#GET / HTTP/1.1[lf]Host: vp.dspeed.shop[lf]Upgrade: websocket[lf][lf]#GET / HTTP/1.1[lf]Host: vp.dspeed.shop[lf]Upgrade: websocket[lf][lf]",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "SNI": "ln.centraldacdn.com",
+            "Path": "",
+            "TLSVersion": "",
+            "Color": "#0000ff",
+            "Info": "Tlsws"
+        }
+    ],
+    "Sms": {
+        "Version": "9",
+        "Update": "",
+        "Notes": "TESTE CONNECTPLUS 14"
+    },
+    "Networks": [],
+    "Update": "https://cybercoari.com.br/update/admin/config"
+}

@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "download_url": "https://cybercoari.com.br/updates/ConnectPlus-1.0.2.zip",
+  "sha256": "1bd00da9785c15d03e5cd35603e317750bce5ec2e1c2aef7e7f551578830517d",
+  "changelog": "Pacote de teste do atualizador online do ConnectPlus. Inclui verificacao de integridade e arquivo de teste UPDATE_TEST_1.0.1.txt."
+}
